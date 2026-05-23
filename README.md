@@ -1,7 +1,7 @@
 Breast Cancer Detection using Neural Network
 
 A Machine Learning project that predicts whether a breast tumor is Benign or Malignant using a Neural Network model.
-The model was trained on a dataset containing 550 rows and 30 medical features, achieving an accuracy of 93%.
+The model was trained on a dataset containing 570 rows and 30 medical features, achieving an accuracy of 93%.
 
 Aim
 
